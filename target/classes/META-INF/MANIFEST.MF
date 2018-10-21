@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Implementation-Title: proyectoSender
+Implementation-Title: ExamenParcialGJOT
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Gustavo Jonthan
 Implementation-Vendor-Id: app

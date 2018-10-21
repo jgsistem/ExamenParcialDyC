@@ -1,6 +1,6 @@
 ---
 applications:
-- name: ExamenParcialGJOT
+- name: ExamenParcialDyC
   path: target/ExamenParcialGJOT-0.0.1-SNAPSHOT.jar
   memory: 1024M
   instances: 1

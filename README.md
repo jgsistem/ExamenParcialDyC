@@ -1,6 +1,7 @@
 # Examen Parcial - Patrones de Diseño
 Gustavo Osorio
 
+Creacion de Customer, Project y User
 #http://localhost:8070/api/customers
 
 --------------------------------------------
@@ -24,5 +25,6 @@ Gustavo Osorio
 
 
 --------------------------------------------
+Lista de Proyect
 #http:localhost:8070/api/project/all
 
